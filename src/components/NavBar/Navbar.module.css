@@ -1,0 +1,20 @@
+nav {
+  background-color: black;
+  height: 7vh;
+  align-items: center;
+  padding-left: 10px;
+  display: flex;
+  justify-content: left;
+}
+
+h2 {
+  color: white;
+}
+
+.heading {
+  font-weight: 500;
+  margin-left: 20px;
+}
+.heading:hover {
+  color: rgba(255, 0, 0, 0.712);
+}
